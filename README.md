@@ -8,6 +8,7 @@ Certifications:
 - CEH
 - Project+ 
 - Certified Scrum Master
+- Certified in Cybersecurity
 
 Education: 
 - Masters of Science: Cyber Security and Information Assurance 
