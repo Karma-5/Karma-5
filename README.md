@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karma-5
 - 👀 I’m interested in ... regenerative farming, working and performance dogs, horses, legos, pride, coding, scripting, security, registry edits, forensics, and more.
-- 🌱 I’m currently learning ... foundational Microsoft certifications for students and ServiceNow Admin. 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... learning and learning resources. 
 - 📫 How to reach me ... LinkedIn. 
 
@@ -9,6 +9,7 @@ Certifications:
 - Project+ 
 - Certified Scrum Master
 - Certified in Cybersecurity
+- CySA+
 
 Education: 
 - Masters of Science: Cyber Security and Information Assurance 
@@ -16,6 +17,7 @@ Education:
 - Applied Associates of Science: Digital Arts
 
 Experience: 
+- IT Business System Specialist
 - Computer Operations 
 - Technician 2
 - Help Desk Specialist 1
