@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karma-5
-- 👀 I’m interested in ... regenerative farming, working and performance dogs, horses, legos, pride, coding, scripting, security, registry edits, forensics, and more.
+- 👀 I’m interested in ... regenerative farming, working and performance dogs, horses, legos, coding, scripting, security, registry edits, forensics, and more.
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... learning and learning resources. 
 - 📫 How to reach me ... LinkedIn. 
